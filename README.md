@@ -1,2 +1,2 @@
 # octopus
-A artifactory and binary management service.
+An artifactory and binary management service.
